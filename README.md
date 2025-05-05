@@ -2,7 +2,7 @@
 
 A digital clock implemented on the DE0-CV FPGA board using SystemVerilog.
 
-![FPGA Clock](./path/to/your/image.jpg)  
+![FPGA Clock](digital_clock.jpg)  
 *Figure: Digital Clock running on the DE0-CV FPGA board*
 
 ## Features
