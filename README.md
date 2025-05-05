@@ -2,6 +2,9 @@
 
 A digital clock implemented on the DE0-CV FPGA board using SystemVerilog.
 
+![FPGA Clock](./path/to/your/image.jpg)  
+*Figure: Digital Clock running on the DE0-CV FPGA board*
+
 ## Features
 🕒 **24-hour clock**: Displays time from 00:00:00 to 23:59:59.  
 🔁 **Roll-over logic**: Automatically wraps to 00:00:00 after 23:59:59.  
