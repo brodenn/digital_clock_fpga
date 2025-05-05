@@ -1,0 +1,31 @@
+Quartus Prime Archive log --	C:/Quartus/viii/digital_clock.qarlog
+
+Archive:	C:/Quartus/viii/digital_clock.qar
+Date:		Sat Apr 19 16:59:25 2025
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Quartus/viii/digital_clock.qpf
+C:/Quartus/viii/digital_clock.qsf
+C:/Quartus/viii/edge_detector.sv
+C:/Quartus/viii/hex_decoder.sv
+C:/Quartus/viii/time_counter.sv
+C:/Quartus/viii/timer_1hz.sv
+C:/Quartus/viii/top.sv
+c:/intelfpga_lite/20.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 8 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sat Apr 19 17:05:41 2025
+Source archive file:	C:/Quartus/viii/digital_clock.qar
+Archive was extracted into	C:/Quartus/viii/digital_clock_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Mon May 05 13:55:16 2025
+Source archive file:	C:/Quartus/viii/digital_clock.qar
+Archive was extracted into	C:/Quartus/viii/digital_clock_restored/
+		 - successfully.
